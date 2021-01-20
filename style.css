@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Source Code Pro', monospace;
+}
+.name-highlight{
+    font-family: 'Heebo', sans-serif;
+    color: orange;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
